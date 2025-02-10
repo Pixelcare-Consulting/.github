@@ -12,11 +12,6 @@
 
 ## Why Choose Us? 💪
 
-- **Healthcare-Focused**: Our expertise is exclusively in healthcare technology
-- **Patient-Centric**: We prioritize solutions that enhance patient care
-- **Experienced Team**: Our consultants bring decades of combined healthcare IT experience
-- **Custom Solutions**: We tailor our approach to your specific needs
-- **Ongoing Support**: We're committed to your long-term success
 
 ## Get Involved 🤝
 
